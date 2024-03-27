@@ -106,6 +106,7 @@ projects:
     # - repo1-to-be-excluded
     # - repo2-to-be-excluded
      - jekyll-test
+     - darva-sigma-arcade
 
 # GOOGLE-ANALYTICS
 # Set the id, if you want to track your website with Google Analytics
