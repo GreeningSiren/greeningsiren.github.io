@@ -7,24 +7,24 @@ title: Neumorphism
 description: Personal website powered by Jekyll
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
-baseurl: "/neumorphism"
+baseurl: "/jekyll-test"
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
-username: Neumorphism
+username: GreeningSiren
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Jekyll Theme
+typing_text: Young Game Dev
 # email: Your E-Mail address for the email button.
-email: email@example.com
+email: greeningsiren@gmail.com
 # For every social button you want to display, set your username or userid
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
-github_username: longpdo
-codepen_username: exampleUser
-dev_username: exampleUser
-linkedin_username: exampleUser
-twitter_username: exampleUser
+github_username: GreeningSiren
+codepen_username:
+dev_username:
+linkedin_username:
+twitter_username: GreeningSiren
 
 # ABOUT ME SECTION
 # show_aboutme_card:
