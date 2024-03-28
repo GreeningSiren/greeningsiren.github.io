@@ -26,7 +26,7 @@ $(document).ready(function() {
 
   // Initialize AOS
   AOS.init({
-    disable: 'mobile',
+    disable: true,
     offset: 200,
     duration: 600,
     easing: 'ease-in-sine',
