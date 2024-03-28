@@ -22,11 +22,11 @@
     - tag: JavaScript
     - tag: Leaderboard
 
-name: AmogUs JUMP!
+- name: AmogUs JUMP!
   descr: "Simple 2D Platformer for a game jam"
   demo: https://greeningsiren.itch.io/amogus-jump-gs
   tags:
     - tag: HTML5 Canvas
-    - tag: 2DPlatformer
+    - tag: 2D Platformer
     - tag: JavaScript
-    - tag: 2D Video Game
+    - tag: 2D VideoGame
