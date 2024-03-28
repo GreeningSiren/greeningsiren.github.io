@@ -7,7 +7,7 @@ title: Greening GitIo
 description: Personal website powered by Jekyll
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
-baseurl: "/jekyll-test"
+baseurl: ""
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
@@ -105,7 +105,6 @@ projects:
     projects:
     # - repo1-to-be-excluded
     # - repo2-to-be-excluded
-     - jekyll-test
      - darva-sigma-arcade
 
 # GOOGLE-ANALYTICS
