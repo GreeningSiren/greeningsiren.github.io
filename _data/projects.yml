@@ -15,7 +15,7 @@
 
 - name: Leaderboard Hub
   descr: "Leaderboard website for my games"
-  demo: https://greeningsiren.github.com/leaderboards
+  demo: https://greeningsiren.github.io/leaderboards
   tags:
     - tag: HTML
     - tag: CSS
