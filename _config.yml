@@ -2,9 +2,9 @@
 
 # GENERAL SITE SETTINGS
 # title: This will be displayed as the website's name in your browser tab.
-title: Greening GitIo
+title: GreeningSiren's Github Page
 # description: This will be meta HTML tag content. This can be ignored.
-description: Personal website powered by Jekyll
+description: Personal website build with Jekyll
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
 baseurl: ""
@@ -14,7 +14,7 @@ baseurl: ""
 username: GreeningSiren
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Young Game Dev
+typing_text: Web & Game Dev
 # email: Your E-Mail address for the email button.
 email: greeningsiren@gmail.com
 # For every social button you want to display, set your username or userid
@@ -105,7 +105,7 @@ projects:
     projects:
     # - repo1-to-be-excluded
     # - repo2-to-be-excluded
-     - darva-sigma-arcade
+    # - darva-sigma-arcade
 
 # GOOGLE-ANALYTICS
 # Set the id, if you want to track your website with Google Analytics
