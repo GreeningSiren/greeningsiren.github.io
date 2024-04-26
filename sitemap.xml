@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://greeningsiren.github.io/</loc>
+  <lastmod>2024-04-24T06:50:41+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://greeningsiren.github.io/old/leaderboards/</loc>
+  <lastmod>2024-04-24T08:48:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://greeningsiren.github.io/download/</loc>
+  <lastmod>2024-04-25T21:20:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://greeningsiren.github.io/telerik-nivo-2/</loc>
+  <lastmod>2024-04-24T08:48:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://greeningsiren.github.io/old/</loc>
+  <lastmod>2024-04-24T08:48:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://greeningsiren.github.io/darva-sigma-arcade/</loc>
+  <lastmod>2024-03-08T10:10:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://greeningsiren.github.io/old/leaderboards/amogusjump100.html</loc>
+  <lastmod>2024-04-24T08:48:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://greeningsiren.github.io/old/leaderboards/amogusjumpany.html</loc>
+  <lastmod>2024-04-24T08:48:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://greeningsiren.github.io/telerik-nivo-2/draskai/</loc>
+  <lastmod>2024-04-24T08:48:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://greeningsiren.github.io/telerik-nivo-2/kuchepisac/</loc>
+  <lastmod>2024-04-24T08:48:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://greeningsiren.github.io/telerik-nivo-2/Orbitri/</loc>
+  <lastmod>2024-04-24T08:48:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://greeningsiren.github.io/telerik-nivo-2/NemaNet/</loc>
+  <lastmod>2024-04-24T08:48:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://greeningsiren.github.io/telerik-nivo-2/sokoban/</loc>
+  <lastmod>2024-04-24T08:48:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
