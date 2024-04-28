@@ -13,52 +13,33 @@
 </url>
 <url>
   <loc>https://greeningsiren.github.io/old/leaderboards/</loc>
-  <priority>0.80</priority>
+  <priority>0.90</priority>
 </url>
 <url>
   <loc>https://greeningsiren.github.io/download/</loc>
-  <priority>0.80</priority>
+  <priority>1.00</priority>
 </url>
 <url>
   <loc>https://greeningsiren.github.io/old/</loc>
-  <priority>0.80</priority>
+  <priority>0.90</priority>
 </url>
 <url>
   <loc>https://greeningsiren.github.io/telerik-nivo-2/</loc>
-  <priority>0.80</priority>
+  <priority>1.00</priority>
 </url>
 <url>
   <loc>https://greeningsiren.github.io/darva-sigma-arcade/</loc>
-  <priority>0.80</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://greeningsiren.github.io/old/leaderboards/amogusjump100.html</loc>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://greeningsiren.github.io/old/leaderboards/amogusjumpany.html</loc>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
-<url>
-  <loc>https://greeningsiren.github.io/telerik-nivo-2/draskai/</loc>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://greeningsiren.github.io/telerik-nivo-2/kuchepisac/</loc>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://greeningsiren.github.io/telerik-nivo-2/Orbitri/</loc>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://greeningsiren.github.io/telerik-nivo-2/NemaNet/</loc>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://greeningsiren.github.io/telerik-nivo-2/sokoban/</loc>
-  <priority>0.64</priority>
-</url>
+
 
 
 </urlset>
